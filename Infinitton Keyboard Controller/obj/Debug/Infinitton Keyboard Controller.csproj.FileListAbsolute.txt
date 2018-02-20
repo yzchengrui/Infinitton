@@ -1,0 +1,8 @@
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\bin\Debug\Infinitton Keyboard Controller.exe.config
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\bin\Debug\Infinitton Keyboard Controller.exe
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\bin\Debug\Infinitton Keyboard Controller.pdb
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\obj\Debug\Infinitton_Keyboard_Controller.Form1.resources
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\obj\Debug\Infinitton_Keyboard_Controller.Properties.Resources.resources
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\obj\Debug\Infinitton Keyboard Controller.csproj.GenerateResource.Cache
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\obj\Debug\Infinitton Keyboard Controller.exe
+C:\playdir\Infinitton Keyboard Controller\Infinitton Keyboard Controller\obj\Debug\Infinitton Keyboard Controller.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinitton Keyboard Controller", "Infinitton Keyboard Controller\Infinitton Keyboard Controller.csproj", "{823B2966-7AF3-4CA5-A606-2EF9E9EBFEEA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{826303F2-623C-4A33-AC99-C43FD50C6F3D} = {826303F2-623C-4A33-AC99-C43FD50C6F3D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinitton Keyboard Listener", "Ininitton Keyboard Listener\Infinitton Keyboard Listener.csproj", "{826303F2-623C-4A33-AC99-C43FD50C6F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823B2966-7AF3-4CA5-A606-2EF9E9EBFEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823B2966-7AF3-4CA5-A606-2EF9E9EBFEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823B2966-7AF3-4CA5-A606-2EF9E9EBFEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823B2966-7AF3-4CA5-A606-2EF9E9EBFEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826303F2-623C-4A33-AC99-C43FD50C6F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826303F2-623C-4A33-AC99-C43FD50C6F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826303F2-623C-4A33-AC99-C43FD50C6F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826303F2-623C-4A33-AC99-C43FD50C6F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

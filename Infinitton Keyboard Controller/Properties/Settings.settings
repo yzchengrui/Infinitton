@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Infinitton_Keyboard_Controller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SerialNo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D434315B1A0348</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
